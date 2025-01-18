@@ -1,15 +1,13 @@
-# Welcome to Mezure Group!
+# به صفحه گروه مشاوره کسب و کار مژر خوش آمدید
 
 ![Mezure Group Banner](https://mezure.ir/wp-content/uploads/2024/11/Logo200.png#274)
 
-## About Us
+# درباره ما
 
-Mezure Group is a team of passionate developers and tech enthusiasts dedicated to building innovative solutions and contributing to the open-source community. We specialize in various domains including web development, data science, AI, and more.
+ما تیمی از متخصصین خلاق و با انگیزه هستیم که با هدف ارائه خدمات نوین و با کیفیت در حوزه‌های مختلف کسب‌وکار فعالیت می‌کنیم. مأموریت ما کمک به رشد و توسعه سازمان‌ها و افراد با ارائه راه‌حل‌های جامع و به‌روز است. 
 
 
-## خدمات ما
-
-# خدمات ارائه شده
+# خدمات ما
 
 ## 1. **ارزیابی کسب و کار**
 بررسی عملکرد فعلی کسب‌وکار و شناسایی نقاط قوت و ضعف برای ایجاد برنامه‌های استراتژیک بهتر.
@@ -59,6 +57,9 @@ Mezure Group is a team of passionate developers and tech enthusiasts dedicated t
 - توسعه مهارت‌های نرم (Soft Skills).
 - کارگاه‌های خلاقیت و نوآوری.
 
-## راه‌های ارتباطی
+# راه‌های ارتباطی
+برای ارتباط با ما می‌توانید از اطلاعات زیر استفاده کنید:
 
-- **Call & Message**: [تلفن تماس](tel:09125439836)
+- تلفن تماس: 09125439836
+- دفاتر: تهران و دبی
+- https://Mezure.ir
